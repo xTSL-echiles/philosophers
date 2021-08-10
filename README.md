@@ -17,4 +17,5 @@ philosopher must eat with two forks, one for each hand.
 • The simulation stops when a philosopher dies.
 
 1st philosopher work at mutexes.
+
 2nd at semaphores.
