@@ -29,6 +29,6 @@ philosopher must eat with two forks, one for each hand.
 • The simulation stops when a philosopher dies.
 
 ________
-philo_one works using mutexes.
+philo_1 works using mutexes.
 
-2nd semaphores.
+philo_bonus_2 semaphores.
