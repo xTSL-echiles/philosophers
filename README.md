@@ -1,5 +1,6 @@
 # philosophers
 multithreading C project  
+________
 One or more philosophers are sitting at a round table doing one of three things:
 eating, thinking, or sleeping.
 
@@ -29,5 +30,5 @@ philosopher must eat with two forks, one for each hand.
 
 ________
 1st philosopher works using mutexes.
-_______
+
 2nd semaphores.
